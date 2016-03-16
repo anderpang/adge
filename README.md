@@ -12,21 +12,21 @@
  1、配置Java环境及Nodejs环境，方法网上自行搜索。<br />
  2、下载本edge代码（方式随意），放任一路径内。<br />
  比如我就放在F:\web中：<br />
- <img src="images/article/1458100529295/1.jpg" alt="" />
+ <img src="http://anderpang.github.io/blog/images/article/1458100529295/1.jpg" alt="" />
  3、假设我有一web站点,src文件夹为放源文件的地方（可随意命名）：<br />
- <img src="images/article/1458100529295/2.jpg" alt="" />
+ <img src="http://anderpang.github.io/blog/images/article/1458100529295/2.jpg" alt="" />
  4、edge/config.js文件中配置源码路径(可用相对路径，不同盘符也是可以的。只用过utf8编码，其他编码未测试。因本人一直都用utf8，呵呵）：<br />
- <img src="images/article/1458100529295/3.jpg" alt="" />
+ <img src="http://anderpang.github.io/blog/images/article/1458100529295/3.jpg" alt="" />
  5、启用Nodejs command prompt命令行，转到edge目录下。<br />
    输入npm start启动程序,看到Listening就表示启动成功了！<br />
    <img src="images/article/1458100529295/4.jpg" alt="" />
    接下来就可以开始搬砖了。。。<br />
    -----------------------------------------------
  6、到website/src/css中建一style.css测试文件。(假如测试代码如下）<br />
- <img src="images/article/1458100529295/5.jpg" alt="" /><br />
+ <img src="http://anderpang.github.io/blog/images/article/1458100529295/5.jpg" alt="" /><br />
  保存文件后，website中已经生成css目录及style.css文件。<br />
- <img src="images/article/1458100529295/6.jpg" alt="" />
- <img src="images/article/1458100529295/7.jpg" alt="" />
+ <img src="http://anderpang.github.io/blog/images/article/1458100529295/6.jpg" alt="" />
+ <img src="http://anderpang.github.io/blog/images/article/1458100529295/7.jpg" alt="" />
  7、js文件同css...<br />
  <hr />
  <p><b>自问自答</b></p>
